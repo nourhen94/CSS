@@ -1,0 +1,69 @@
+body{background: #abbaab;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ffffff, #abbaab);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ffffff, #abbaab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;    
+    text-align:center;} 
+        
+    
+        
+
+     ul>li {display: inline;
+
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-left: 1%;
+    margin-right: 1%;
+color: lightcoral;
+font-size: 6mm;}
+
+    
+     nav{
+         text-align:right;
+     }
+
+.image{
+    margin-bottom: 5%;
+    margin-left:  0.1mm;
+    
+}
+p{
+    margin-bottom: 5mm;
+    margin-right: 150mm;
+    
+
+}
+.text_image {
+margin-top: 2%;
+display: flex;
+/* max-width: 100%;
+flex-wrap: wrap;
+justify-content: center */
+}
+
+.text_image >div{
+
+
+}
+
+.al>p{
+    width: 100%;
+}
+
+
+ol {
+    text-align: center;
+    list-style-position: inside;
+}
+
+/* .work {
+    background-color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+} */
+
+form{
+ color:red  ;
+ font-family: 'Times New Roman', Times, serif;
+ font-size: 150%;
+}
